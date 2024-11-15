@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=GTRunner Settings
+Comment=Run commands from tray
+Exec=gtrunner
+Icon=info
+Terminal=false
+Type=Application
+Categories=GTK;Utility;
+X-AppStream-Ignore=true
